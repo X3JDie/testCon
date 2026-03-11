@@ -1,0 +1,15 @@
+// ==UserScript==
+// @name         MangaBuff Loader
+// @namespace    http://tampermonkey.net/
+// @version      1.0
+// @description  Подключает основной скрипт из локального файла
+// @match        https://mangabuff.ru/*
+// @grant        none
+// @require
+// ==/UserScript==
+
+(function () {
+  'use strict';
+
+  console.log("[Loader] 📦Скрипт загружен из GitHub  Эвент окончен v3.2.3" );
+}
