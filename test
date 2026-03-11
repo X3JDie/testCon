@@ -8,8 +8,6 @@
 // @require
 // ==/UserScript==
 
-(function () {
-  'use strict';
 
-  console.log("[Loader] 📦Скрипт загружен из GitHub  Эвент окончен v3.2.3" );
-}
+console.log("test.js выполнен");
+window.TestLoaded = true;
