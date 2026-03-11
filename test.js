@@ -8,6 +8,6 @@
 // @require
 // ==/UserScript==
 
-
+console.log("test.js Ghjdthrf");
 console.log("test.js выполнен");
 window.TestLoaded = true;
